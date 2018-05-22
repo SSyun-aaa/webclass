@@ -1,5 +1,5 @@
 package dao;
-
+//コメント
 import java.awt.image.BufferedImage;
 import java.io.BufferedInputStream;
 import java.io.InputStream;
